@@ -19,5 +19,6 @@ for direction in ["left", "right", "bottom", "top"]:
     
 x = np.linspace(-5, 5)
 ax.plot(x, 2 - x)
+ax.plot(x, 4x - 8)
 
 plt.show()
