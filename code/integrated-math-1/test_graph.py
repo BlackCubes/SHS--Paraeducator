@@ -17,7 +17,7 @@ for direction in ["left", "right", "bottom", "top"]:
     # hides borders
     ax.axis[direction].set_visible(False)
     
-x = np.linspace(-0.5, 1, 100)
+x = np.linspace(1, 1, 100)
 ax.plot(x, np.sin(x*np.pi))
 
 plt.show()
