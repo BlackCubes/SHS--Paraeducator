@@ -17,8 +17,10 @@ for direction in ["left", "right", "bottom", "top"]:
     # hides borders
     ax.axis[direction].set_visible(False)
     
-x = np.arange(-5, 5, 1)
+x = np.linspace(-5, 5)
 ax.plot(x, 2 - x)
 ax.plot(x, 4*x - 8)
+
+plt.ylim(-10, 10)
 
 plt.show()
