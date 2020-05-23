@@ -18,6 +18,6 @@ for direction in ["left", "right", "bottom", "top"]:
     ax.axis[direction].set_visible(False)
     
 x = np.linspace(-1, 1, 3)
-ax.plot(x, np.sin(x*np.pi))
+ax.plot(x, 2 - x)
 
 plt.show()
