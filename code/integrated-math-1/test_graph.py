@@ -30,7 +30,7 @@ ax.plot(0, -8, color="#EC407A", marker="o", markersize=5)
 line1_legend = plt.legend(handles=[line1], loc="lower right")
 ax = plt.gca().add_artist(line1_legend)
 plt.legend(handles=[line2], loc="upper right")
-plt.annotate("From (21) in Substitution Method section", xy=(2, 0), xytext=(4, 2), arrowprops=dict(facecolor="black", shrink=0.05),)
+plt.annotate("From (21)", xy=(2, 0), xytext=(4, 2), arrowprops=dict(facecolor="black", shrink=0.02),)
 
 # plt.legend()
 plt.xlim(-9, 9)
