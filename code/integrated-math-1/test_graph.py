@@ -21,7 +21,9 @@ x = np.arange(-7, 7)
 ax.plot(x, 2 - x)
 ax.plot(x, 4*x - 8)
 
+plt.legend(['x + y = 2', '4x - y = 8'])
 plt.xlim(-9, 9)
 plt.ylim(-9, 9)
+plt.grid(True)
 
 plt.show()
