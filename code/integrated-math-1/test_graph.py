@@ -17,12 +17,15 @@ for direction in ["left", "right", "bottom", "top"]:
     # hides borders
     ax.axis[direction].set_visible(False)
     
-x = np.arange(-10, 10)
-ax.plot(x, 2 - x, '-g')
-ax.plot(x, 4*x - 8, '-c')
-ax.plot(2, 0, 'om')
+# x = np.arange(-10, 10)
 
-plt.legend(['x + y = 2', '4x - y = 8'])
+# ax.plot(x, 2 - x, '-g')
+ax.plot(2, 0, color="#FFA000", marker="o")
+
+# ax.plot(x, 4*x - 8, '-c')
+# ax.plot(2, 0, 'om')
+
+# plt.legend(['x + y = 2', '4x - y = 8'])
 plt.xlim(-9, 9)
 plt.ylim(-9, 9)
 plt.grid(True)
