@@ -26,7 +26,7 @@ ax.plot(0, 2, color="#FFA000", marker="o", markersize=10)
 # ax.plot(x, 4*x - 8, '-c')
 # ax.plot(2, 0, 'om')
 
-# plt.legend(['x + y = 2', '4x - y = 8'])
+plt.legend(['x + y = 2'])#, '4x - y = 8'])
 plt.xlim(-9, 9)
 plt.ylim(-9, 9)
 plt.grid(True)
