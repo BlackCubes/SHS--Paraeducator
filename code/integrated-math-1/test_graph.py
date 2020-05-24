@@ -24,8 +24,8 @@ ax.plot(2, 0, color="#FFA000", marker="o", markersize=10)
 ax.plot(0, 2, color="#FFA000", marker="o", markersize=10)
 
 line2, = ax.plot(x, 4*x - 8, "-c", label="4x - y = 8")
-ax.plot(2, 0, color="#EC407A", marker="o", markersize=10)
-ax.plot(0, -8, color="#EC407A", marker="o", markersize=10)
+ax.plot(2, 0, color="#EC407A", marker="o", markersize=6)
+ax.plot(0, -8, color="#EC407A", marker="o", markersize=6)
 
 line1_legend = plt.legend(handles=[line1], loc="lower right")
 ax = plt.gca().add_artist(line1_legend)
