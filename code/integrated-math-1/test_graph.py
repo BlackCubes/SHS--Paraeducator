@@ -20,6 +20,7 @@ for direction in ["left", "right", "bottom", "top"]:
 x = np.arange(-10, 10)
 ax.plot(x, 2 - x, '-g')
 ax.plot(x, 4*x - 8, '-c')
+ax.plot(2, 0, 'om')
 
 plt.legend(['x + y = 2', '4x - y = 8'])
 plt.xlim(-9, 9)
