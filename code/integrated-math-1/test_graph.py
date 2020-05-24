@@ -20,7 +20,7 @@ for direction in ["left", "right", "bottom", "top"]:
 # x = np.arange(-10, 10)
 
 # ax.plot(x, 2 - x, '-g')
-ax.plot(2, 0, color="#FFA000", marker="o")
+ax.plot(2, 0, color="#FFA000", marker="o", markersize=10)
 
 # ax.plot(x, 4*x - 8, '-c')
 # ax.plot(2, 0, 'om')
