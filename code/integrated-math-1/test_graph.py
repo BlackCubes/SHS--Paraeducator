@@ -21,7 +21,7 @@ x = np.arange(-5, 5)
 ax.plot(x, 2 - x)
 ax.plot(x, 4*x - 8)
 
-plt.xlim(-10, 10)
-plt.ylim(-10, 10)
+plt.xlim(-9, 9)
+plt.ylim(-9, 9)
 
 plt.show()
