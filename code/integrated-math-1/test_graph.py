@@ -19,11 +19,11 @@ for direction in ["left", "right", "bottom", "top"]:
     
 x = np.arange(-10, 10)
 
-ax.plot(x, 2 - x, '-g')
-ax.plot(2, 0, color="#FFA000", marker="o", markersize=10, label="x + y = 2")
-ax.plot(0, 2, color="#FFA000", marker="o", markersize=10, label="4x - y = 8")
+ax.plot(x, 2 - x, "-g", label="x + y = 2")
+ax.plot(2, 0, color="#FFA000", marker="o", markersize=10)
+ax.plot(0, 2, color="#FFA000", marker="o", markersize=10)
 
-ax.plot(x, 4*x - 8, '-c')
+ax.plot(x, 4*x - 8, "-c", label="4x - y = 8")
 ax.plot(2, 0, color="#EC407A", marker="o", markersize=10)
 ax.plot(0, -8, color="#EC407A", marker="o", markersize=10)
 
