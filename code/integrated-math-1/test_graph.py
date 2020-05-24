@@ -17,9 +17,9 @@ for direction in ["left", "right", "bottom", "top"]:
     # hides borders
     ax.axis[direction].set_visible(False)
     
-# x = np.arange(-10, 10)
+x = np.arange(-10, 10)
 
-# ax.plot(x, 2 - x, '-g')
+ax.plot(x, 2 - x, '-g')
 ax.plot(2, 0, color="#FFA000", marker="o", markersize=10)
 ax.plot(0, 2, color="#FFA000", marker="o", markersize=10)
 
