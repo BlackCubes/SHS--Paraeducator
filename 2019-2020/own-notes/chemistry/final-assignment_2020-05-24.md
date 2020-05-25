@@ -40,7 +40,7 @@ $$
 \ce{{ } \\ K^{1+}Br^{1-}} \quad \ce{{ } \\ +} \quad \ce{OH^{1-}\\ Fe^{3+}OH^{1-}\\ OH^{1-}} \quad \ce{{ } \\ ->} \quad \ce{{ } \\ K^{1+}OH^{1-}} \quad \ce{{ } \\ +} \quad \ce{Br^{1-}\\ Fe^{3+}Br^{1-}\\ Br^{1-}}
 \end{align*}
 $$
-As you can see, there are unequal amounts of chemical substances on both the left and right side: $\ce{Br}$ has one at the left, but it has three on the right; $\ce{OH}$ has three on the left, but it has one on the right; and both $\ce{K}$ and $\ce{Fe}$ have an equal amount of one on both sides. This needs to be balanced. I'll use a table to tally how much chemical substances we need along with a visualization, but in your case it is probably best to stick with a table due to time constraints on tests and other class works/activities. But, if you need to use a visualization then do it.
+As you can see, there are unequal amounts of chemical substances on both the left and right side: $\ce{Br}$ has one at the left, but it has three on the right; $\ce{OH}$ has three on the left, but it has one on the right; and both $\ce{K}$ and $\ce{Fe}$ have an equal amount on both sides. This needs to be balanced. I'll use a table to tally how much chemical substances we need along with a visualization, but in your case it is probably best to stick with a table due to time constraints on tests and other class works/activities. But, if you need to use a visualization then do it.
 
 | Substance | Reactant | Product |
 | --------- | -------- | ------- |
@@ -58,15 +58,65 @@ Based on this table, both $\ce{K}$ and $\ce{Fe}$ are balanced: They have the sam
 | $\ce{Fe}$ | $1$                     | $1$     |
 | $\ce{OH}$ | $3$                     | $1$     |
 
-If this is a little difficult to understand, then remember that multiplication is basically a shortcut to addition: Instead of adding all the numbers, we could multiply the factor which is the given value. For example, in $1$ hour is $60$ minutes. How many minutes are in $5$ hours? We need to change the given value, or ***factor***, of $60$ minutes by 5: $60 \times 5 = 300$. So, there are $300$ minutes in $5$ hours. We could have added instead: For $1 + 1 + 1 + 1 + 1 = 5$ hours there are $60 + 60 + 60 + 60 + 60 = 300$ minutes. Which is easier to do: Multiplication or Addition? For numbers that are large, multiplication is easier and faster than adding them all together. For smaller numbers, addition could be easier. In this case, we used multiplication as a shortcut to balance $\ce{Br}$: For $3$ **Product**, we need $1 \times 3 = 3$ **Reactant** INSTEAD OF $1 + 1 + 1 = 3$ **Reactant**.
+If this is a little difficult to understand, then remember that multiplication is basically a shortcut to addition: Instead of adding all the numbers, we could multiply the factor which is the given value. For example, in $1$ hour is $60$ minutes. How many minutes are in $5$ hours? We need to change the given value, or ***factor***, of $60$ minutes by 5: $60 \times 5 = 300$. So, there are $300$ minutes in $5$ hours. We could have added: For $1 + 1 + 1 + 1 + 1 = 5$ hours there are $60 + 60 + 60 + 60 + 60 = 300$ minutes. Which is easier to do: Multiplication or Addition? For numbers that are large, multiplication is easier and faster than adding them all together. For smaller numbers, addition could be easier. In this case, we used multiplication as a shortcut to balance $\ce{Br}$: For $3$ **Product**, we need $1 \times 3 = 3$ **Reactant** INSTEAD OF doing $1 + 1 + 1 = 3$ **Reactant**.
 
-Let's continue with the Table Method: $\ce{Br}$ is now balanced with $3$ on both sides, but $\ce{OH}$ is not balanced with unequal numbers on both sides. Should we increase the **Reactant** or **Product**? As stated before, due to Entropy, there is no way to decrease the **Reactant** from $3$ to $1$, but we could increase the **Product** by multiplying the factor $1$ by $3$:
+Now, since we put a $3$ in the table, this means that there are three $\ce{Br}$ on reactant side (left side). Let's look at it visually:
+$$
+\begin{align*}
+\ce{{ } { } { } {} Br^{1-} \\ K^{1+}Br^{1-} \\ { } { } { } {} Br^{1-}} \quad \ce{{ } \\ +} \quad \ce{OH^{1-}\\ Fe^{3+}OH^{1-}\\ OH^{1-}} \quad \ce{{ } \\ ->} \quad \ce{{ } \\ K^{1+}OH^{1-}} \quad \ce{{ } \\ +} \quad \ce{Br^{1-}\\ Fe^{3+}Br^{1-}\\ Br^{1-}}
+\end{align*}
+$$
+Notice how there are three $\ce{Br}$ on the left side? Also notice how the negative charges of $\ce{Br}$ add up to $3-$. BUT, also notice how the positive charges of $\ce{K}$ on the left side add up only to $1+$? The charges also need to be balanced, and we could do this by adding two more $\ce{K}$:
+$$
+\begin{align*}
+\ce{K^{1+}Br^{1-} \\ K^{1+}Br^{1-} \\ K^{1+}Br^{1-}} \quad \ce{{ } \\ +} \quad \ce{OH^{1-}\\ Fe^{3+}OH^{1-}\\ OH^{1-}} \quad \ce{{ } \\ ->} \quad \ce{{ } \\ K^{1+}OH^{1-}} \quad \ce{{ } \\ +} \quad \ce{Br^{1-}\\ Fe^{3+}Br^{1-}\\ Br^{1-}}
+\end{align*}
+$$
+BUT, since there is three $\ce{K}$, that means that the factor of $1$ got multiplied by $3$ on the table (I know this is getting weird, but bear with me. I'm getting there):
+
+| Substance | Reactant                | Product |
+| --------- | ----------------------- | ------- |
+| $\ce{K}$  | $1 \times 3 = \bold{3}$ | $1$     |
+| $\ce{Br}$ | $1 \times 3 = 3$        | $3$     |
+| $\ce{Fe}$ | $1$                     | $1$     |
+| $\ce{OH}$ | $3$                     | $1$     |
+
+What does this all mean. Remember when I said earlier that multiplication is a shortcut to addition? The table is the shortcut to the visual: When you do the table, you are using the multiplication method. When you are using the visual, you are using the addition method. There was one factor of $\ce{Br}$ on the reactant side so we had to multiply that factor by $3$, but this in turn affected the $\ce{K}$ since it was uneven to $\ce{Br}$ so we had to increase the factor of $\ce{K}$ as well. For now, I will be calling the table as the Table Method and the visual as the Visual Method. Let's continue.
+
+Based on the table, the chemical substances $\ce{Br}$ and $\ce{Fe}$ are balanced with equal numbers, but $\ce{K}$ and $\ce{OH}$ are not balanced. Let's attack $\ce{K}$ by increasing its **Product** factor of $1$ to $3$: $1 \times 3 = 3$. Lets show this on the Table Method:
 
 | Substance | Reactant         | Product                 |
 | --------- | ---------------- | ----------------------- |
-| $\ce{K}$  | $1$              | $1$                     |
+| $\ce{K}$  | $1 \times 3 = 3$ | $1 \times 3 = \bold{3}$ |
+| $\ce{Br}$ | $1 \times 3 = 3$ | $3$                     |
+| $\ce{Fe}$ | $1$              | $1$                     |
+| $\ce{OH}$ | $3$              | $1$                     |
+
+Let's see this on the Visual Method where there are now three $\ce{K}$ on the right side:
+$$
+\begin{align*}
+\ce{K^{1+}Br^{1-} \\ K^{1+}Br^{1-} \\ K^{1+}Br^{1-}} \quad \ce{{ } \\ +} \quad \ce{OH^{1-}\\ Fe^{3+}OH^{1-}\\ OH^{1-}} \quad \ce{{ } \\ ->} \quad \ce{K^{1+} \\ K^{1+}OH^{1-} \\ K^{1+}} \quad \ce{{ } \\ +} \quad \ce{Br^{1-}\\ Fe^{3+}Br^{1-}\\ Br^{1-}}
+\end{align*}
+$$
+The $\ce{K}$ charges add up to $3+$ on the right side, but the $\ce{OH}$ charges only add up to $1-$. It's unbalanced and we need to increase its **Product** factor of $1$ to $3$. Let's use the Table Method where $1 \times 3 = 3$:
+
+| Substance | Reactant         | Product                 |
+| --------- | ---------------- | ----------------------- |
+| $\ce{K}$  | $1 \times 3 = 3$ | $1 \times 3 = 3$        |
 | $\ce{Br}$ | $1 \times 3 = 3$ | $3$                     |
 | $\ce{Fe}$ | $1$              | $1$                     |
 | $\ce{OH}$ | $3$              | $1 \times 3 = \bold{3}$ |
 
-Everything is now balanced, but lets look at it in a visual perspective:
+There should now be three $\ce{OH}$ on the right side for the Visual Method:
+$$
+\begin{align*}
+\ce{K^{1+}Br^{1-} \\ K^{1+}Br^{1-} \\ K^{1+}Br^{1-}} \quad \ce{{ } \\ +} \quad \ce{OH^{1-}\\ Fe^{3+}OH^{1-}\\ OH^{1-}} \quad \ce{{ } \\ ->} \quad \ce{K^{1+}OH^{1-} \\ K^{1+}OH^{1-} \\ K^{1+}OH^{1-}} \quad \ce{{ } \\ +} \quad \ce{Br^{1-}\\ Fe^{3+}Br^{1-}\\ Br^{1-}}
+\end{align*}
+$$
+By looking at the Visual Method above, you might be thinking that $\ce{Fe}$ is unbalanced since there is only one, but that is not true. For the Visual Method, you decide if it is balanced by counting the charges. For the Table Method, you decide if it is balanced by checking if there are equal numbers on the **Reactant** side and **Product** side. You use the Visual Method for addition while you use the Table Method for multiplication.
+
+Let's check if it is balance:
+
+- For the Table Method, there are equal numbers of $3$ for $\ce{K}$, $\ce{Br}$, and $\ce{OH}$ while there is an equal number of $1$ for $\ce{Fe}$ on the **Product** and **Reactant**.
+- For the Visual Method, there are $3$ equal substances of $\ce{K}$, $\ce{Br}$, and $\ce{OH}$ and $1$ equal substance of $\ce{Fe}$ on the left side and right side. There are $3+$ charges for $\ce{K}$ equaling with $3-$ charges for $\ce{Br}$ on the left side, $3+$ charge for $\ce{Fe}$ equaling with $3-$ charges for $\ce{OH}$ on the left side, $3+$ charges for $\ce{K}$ equaling with $3-$ charges for $\ce{OH}$ on the right side, and $3+$ charge for $\ce{Fe}$ equaling with $3-$ charges for $\ce{Br}$ on the left side.
+
