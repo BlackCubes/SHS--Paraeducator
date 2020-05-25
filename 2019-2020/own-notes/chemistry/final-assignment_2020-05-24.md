@@ -62,11 +62,11 @@ If this is a little difficult to understand, then remember that multiplication i
 
 Let's continue with the Table Method: $\ce{Br}$ is now balanced with $3$ on both sides, but $\ce{OH}$ is not balanced with unequal numbers on both sides. Should we increase the **Reactant** or **Product**? As stated before, due to Entropy, there is no way to decrease the **Reactant** from $3$ to $1$, but we could increase the **Product** by multiplying the factor $1$ by $3$:
 
-| Substance | Reactant                | Product                 |
-| --------- | ----------------------- | ----------------------- |
-| $\ce{K}$  | $1$                     | $1$                     |
-| $\ce{Br}$ | $1 \times 3 = \bold{3}$ | $3$                     |
-| $\ce{Fe}$ | $1$                     | $1$                     |
-| $\ce{OH}$ | $3$                     | $1 \times 3 = \bold{3}$ |
+| Substance | Reactant         | Product                 |
+| --------- | ---------------- | ----------------------- |
+| $\ce{K}$  | $1$              | $1$                     |
+| $\ce{Br}$ | $1 \times 3 = 3$ | $3$                     |
+| $\ce{Fe}$ | $1$              | $1$                     |
+| $\ce{OH}$ | $3$              | $1 \times 3 = \bold{3}$ |
 
 Everything is now balanced, but lets look at it in a visual perspective:
