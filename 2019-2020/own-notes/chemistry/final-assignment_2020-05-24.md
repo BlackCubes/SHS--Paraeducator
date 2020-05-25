@@ -1,4 +1,10 @@
-Everything presented here is to help you understand, learn, and how to tackle problems...
+# A Chemistry Guide
+
+![https://img.shields.io/badge/CREATED%20BY-ELIAS%20GUTIERREZ-003366?style=for-the-badge](https://img.shields.io/badge/CREATED BY-ELIAS GUTIERREZ-003366?style=for-the-badge) ![Email](https://img.shields.io/badge/Email-elias__gutierrez%40sangerusd.net-117A65?style=social)
+
+Everything presented here is to help you understand, learn, and how to a tackle problem. It is not intended to do you work. That is for you to do to be successful in life as you always have to learn personally, academically, and in work-related areas. Without further ado, let's learn science! :nerd_face:
+
+---
 
 ### Balancing Chemical Equations
 
@@ -141,7 +147,7 @@ $$
 \ce{KBr + Fe(OH)3 -> KOH + FeBr3}
 \end{align*}
 $$
-On the **Reactant** side or left side: The Table Method shows that there are $3$ $\ce{K}$ and $3$ $\ce{Br}$ which the Visual Method also shows on the left side. So, the factor of $\ce{KBr}$ goes to $3$. **IMPORTANT**: You do not add the two numbers together!  Think about it. Let $\ce{K}$ be an apple while $\ce{Br}$ be an orange. Can you add these two to get $6$? No, but an apple and an orange together form a basket of fruits. The same with $\ce{K}$ and $\ce{Br}$ where together they form a compound, and we have three compounds of $\ce{KBr}$. So, a $3$ goes in front of $\ce{KBr}$ as so:
+On the **Reactant** side or left side: The Table Method shows that there are $3$ $\ce{K}$ and $3$ $\ce{Br}$ which the Visual Method also shows on the left side. So, the factor of $\ce{KBr}$ goes to $3$. **IMPORTANT** :rotating_light:: You do not add the two numbers together!  Think about it. Let $\ce{K}$ be an apple while $\ce{Br}$ be an orange. Can you add these two to get $6$? No, but an apple and an orange together form a basket of fruits. The same with $\ce{K}$ and $\ce{Br}$ where together they form a compound, and we have three compounds of $\ce{KBr}$. So, a $3$ goes in front of $\ce{KBr}$ as so:
 $$
 \begin{align*}
 \ce{3KBr + Fe(OH)3 -> KOH + FeBr3}
@@ -165,4 +171,12 @@ $$
 \boxed{\ce{3KBr + 1Fe(OH)3 -> 3KOH + 1FeBr3}}
 \end{align*}
 $$
-That is how you Balance Chemical Equations!
+That is how you Balance Chemical Equations! Congrats for making it this far! :man_student: :clap: :confetti_ball: :trophy:
+
+___
+
+---
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) [![made-with-mathjax](https://img.shields.io/badge/Made%20with-MathJax-1f425f.svg)](https://www.mathjax.org/)
+
+Hopefully everything made sense in this document, but if you have any questions then please contact your Case Manager(s) or Teacher(s) for further information. Thank you and have a very good day!
