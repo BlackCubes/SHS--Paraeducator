@@ -147,3 +147,22 @@ $$
 \ce{3KBr + Fe(OH)3 -> KOH + FeBr3}
 \end{align*}
 $$
+Still on the **Reactant** side: The Table Method shows that both $\ce{Fe}$ and $\ce{OH}$ were not changed with $1$ $\ce{Fe}$ and $3$ $\ce{OH}$ which the Visual Method also shows on the left side with equal charges of $3+$ and $3-$. This means that they form $1$ compound of $\ce{Fe(OH)_{3}}$ since for every $\ce{1Fe}$ you need at least $\ce{3OH}$:
+$$
+\begin{align*}
+\ce{3KBr + 1Fe(OH)3 -> KOH + FeBr3}
+\end{align*}
+$$
+On the **Product** side: The Table Method shows that there are $3$ $\ce{K}$ and $3$ $\ce{OH}$ which the Visual Method also shows on the right side. They form into $\ce{KOH}$ compound, and we have three of them:
+$$
+\begin{align*}
+\ce{3KBr + 1Fe(OH)3 -> 3KOH + FeBr3}
+\end{align*}
+$$
+Last of all on the **Product** side: The Table Method shows that both $\ce{Fe}$ and $\ce{Br}$ remain unchanged with $1$ $\ce{Fe}$ and $3$ $\ce{Br}$ which the Visual Method also shows on the right side equal charges of $3+$ and $3-$. This means This means that they form $1$ compound of $\ce{FeBr_{3}}$ since for every $\ce{1Fe}$ you need at least $\ce{3Br}$. And so the final answer is:
+$$
+\begin{align*}
+\boxed{\ce{3KBr + 1Fe(OH)3 -> 3KOH + 1FeBr3}}
+\end{align*}
+$$
+That is how you Balance Chemical Equations!
