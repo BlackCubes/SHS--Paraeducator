@@ -28,3 +28,17 @@ $$
 \ce{{ } \\ K^{1+}Br^{1-}} \quad \ce{OH^{1-}\\ Fe^{3+}OH^{1-}\\ OH^{1-}}
 \end{align*}
 $$
+On the products side from ($\ref{ChemEq1}$), there is one $\ce{K}$, $\ce{OH}$, and $\ce{Fe}$, but there is only three $\ce{Br}$. Here is a visualization for it:
+$$
+\begin{align*}
+\ce{{ } \\ K^{1+}OH^{1-}} \quad \ce{Br^{1-}\\ Fe^{3+}Br^{1-}\\ Br^{1-}}
+\end{align*}
+$$
+The complete visualization of ($\ref{ChemEq1}$) looks like this:
+$$
+\begin{align*}
+\ce{{ } \\ K^{1+}Br^{1-}} \quad \ce{{ } \\ +} \quad \ce{OH^{1-}\\ Fe^{3+}OH^{1-}\\ OH^{1-}} \quad \ce{{ } \\ ->} \quad \ce{{ } \\ K^{1+}OH^{1-}} \quad \ce{{ } \\ +} \quad \ce{Br^{1-}\\ Fe^{3+}Br^{1-}\\ Br^{1-}}
+\end{align*}
+$$
+As you can see, there are unequal amounts of chemical substances on both the left and right side: $\ce{Br}$ has one at the left, but it has three on the right; $\ce{OH}$ has three on the left, but it has one on the right; and both $\ce{K}$ and $\ce{Fe}$ have an equal amount of one on both sides. This needs to be balanced. I'll use a table to tally how much chemical substances we need along with a visualization, but in your case it is probably best to stick with a table due to time constraints on tests and other class works/activities. But, if you need to use a visualization then do it.
+
