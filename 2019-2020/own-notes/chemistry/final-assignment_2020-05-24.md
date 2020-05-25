@@ -1,6 +1,6 @@
 # A Chemistry Guide
 
-![https://img.shields.io/badge/CREATED%20BY-ELIAS%20GUTIERREZ-003366?style=for-the-badge](https://img.shields.io/badge/CREATED BY-ELIAS GUTIERREZ-003366?style=for-the-badge) ![Email](https://img.shields.io/badge/Email-elias__gutierrez%40sangerusd.net-117A65?style=social)
+![https://img.shields.io/badge/CREATED%20BY-ELIAS%20GUTIERREZ-003366?style=for-the-badge](https://img.shields.io/badge/CREATED BY-ELIAS GUTIERREZ-003366?style=for-the-badge) ![Email](https://img.shields.io/badge/Email-elias__gutierrez%40sangerusd.net-117A65?style=social&logo=gmail)
 
 Everything presented here is to help you understand, learn, and how to a tackle problem. It is not intended to do you work. That is for you to do to be successful in life as you always have to learn personally, academically, and in work-related areas. Without further ado, let's learn science! :nerd_face:
 
