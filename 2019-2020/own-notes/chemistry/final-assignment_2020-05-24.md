@@ -113,10 +113,37 @@ $$
 \ce{K^{1+}Br^{1-} \\ K^{1+}Br^{1-} \\ K^{1+}Br^{1-}} \quad \ce{{ } \\ +} \quad \ce{OH^{1-}\\ Fe^{3+}OH^{1-}\\ OH^{1-}} \quad \ce{{ } \\ ->} \quad \ce{K^{1+}OH^{1-} \\ K^{1+}OH^{1-} \\ K^{1+}OH^{1-}} \quad \ce{{ } \\ +} \quad \ce{Br^{1-}\\ Fe^{3+}Br^{1-}\\ Br^{1-}}
 \end{align*}
 $$
-By looking at the Visual Method above, you might be thinking that $\ce{Fe}$ is unbalanced since there is only one, but that is not true. For the Visual Method, you decide if it is balanced by counting the charges. For the Table Method, you decide if it is balanced by checking if there are equal numbers on the **Reactant** side and **Product** side. You use the Visual Method for addition while you use the Table Method for multiplication.
+By looking at the Visual Method above, you might be thinking that $\ce{Fe}$ is unbalanced since there is only one compared to three, but that is not true. For the Visual Method, you decide if it is balanced by counting the charges and if the substances have the same amount on both sides (three $\ce{K}$ on both left and right side). For the Table Method, you decide if it is balanced by checking if there are equal numbers on the **Reactant** side and **Product** side. You use the Visual Method for addition while you use the Table Method for multiplication.
 
 Let's check if it is balance:
 
 - For the Table Method, there are equal numbers of $3$ for $\ce{K}$, $\ce{Br}$, and $\ce{OH}$ while there is an equal number of $1$ for $\ce{Fe}$ on the **Product** and **Reactant**.
 - For the Visual Method, there are $3$ equal substances of $\ce{K}$, $\ce{Br}$, and $\ce{OH}$ and $1$ equal substance of $\ce{Fe}$ on the left side and right side. There are $3+$ charges for $\ce{K}$ equaling with $3-$ charges for $\ce{Br}$ on the left side, $3+$ charge for $\ce{Fe}$ equaling with $3-$ charges for $\ce{OH}$ on the left side, $3+$ charges for $\ce{K}$ equaling with $3-$ charges for $\ce{OH}$ on the right side, and $3+$ charge for $\ce{Fe}$ equaling with $3-$ charges for $\ce{Br}$ on the left side.
 
+Everything is balanced, but we are nearly done. All we have to do is put the numbers that we just got into ($\ref{ChemEq1}$) for the final answer. To do this, look what substances changed for either the Table Method or Visual Method or both. I'll do both. Here is ($\ref{ChemEq1}$) as reference along with the Table Method and Visual Method:
+
+| Substance | Reactant         | Product          |
+| --------- | ---------------- | ---------------- |
+| $\ce{K}$  | $1 \times 3 = 3$ | $1 \times 3 = 3$ |
+| $\ce{Br}$ | $1 \times 3 = 3$ | $3$              |
+| $\ce{Fe}$ | $1$              | $1$              |
+| $\ce{OH}$ | $3$              | $1 \times 3 = 3$ |
+
+$$
+\begin{align*}
+\ce{K^{1+}Br^{1-} \\ K^{1+}Br^{1-} \\ K^{1+}Br^{1-}} \quad \ce{{ } \\ +} \quad \ce{OH^{1-}\\ Fe^{3+}OH^{1-}\\ OH^{1-}} \quad \ce{{ } \\ ->} \quad \ce{K^{1+}OH^{1-} \\ K^{1+}OH^{1-} \\ K^{1+}OH^{1-}} \quad \ce{{ } \\ +} \quad \ce{Br^{1-}\\ Fe^{3+}Br^{1-}\\ Br^{1-}}
+\end{align*}
+$$
+
+
+$$
+\begin{align*}
+\ce{KBr + Fe(OH)3 -> KOH + FeBr3}
+\end{align*}
+$$
+On the **Reactant** side or left side: The Table Method shows that there are $3$ $\ce{K}$ and $3$ $\ce{Br}$ which the Visual Method also shows on the left side. So, the factor of $\ce{KBr}$ goes to $3$. **IMPORTANT**: You do not add the two numbers together!  Think about it. Let $\ce{K}$ be an apple while $\ce{Br}$ be an orange. Can you add these two to get $6$? No, but an apple and an orange together form a basket of fruits. The same with $\ce{K}$ and $\ce{Br}$ where together they form a compound, and we have three compounds of $\ce{KBr}$. So, a $3$ goes in front of $\ce{KBr}$ as so:
+$$
+\begin{align*}
+\ce{3KBr + Fe(OH)3 -> KOH + FeBr3}
+\end{align*}
+$$
